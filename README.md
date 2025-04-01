@@ -24,7 +24,7 @@ Installation
 
 1. Clone the repository:
 
-git clone https://github.com/humza-1201/AmazonClone.git
+git clone https://github.com/humza1201/AmazonClone.git
 cd AmazonClone
 
 
