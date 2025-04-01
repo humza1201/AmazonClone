@@ -1,5 +1,5 @@
 # AmazonClone
- My amazon clone using htmal and css
+ My amazon clone using html and css
 
 Amazon Clone
 
